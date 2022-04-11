@@ -23,6 +23,7 @@
 #include "ui_GaussianBeamWindow.h"
 
 #include <QMainWindow>
+#include <QItemSelectionModel>
 #include <QXmlStreamWriter>
 #include <QDomElement>
 
